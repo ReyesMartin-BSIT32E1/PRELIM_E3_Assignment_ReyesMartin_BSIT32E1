@@ -23,6 +23,11 @@ namespace PRELIM_E3_Assignment_ReyesMartin_BSIT32E1.Controllers
             return View();
         }
 
+        public IActionResult School()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

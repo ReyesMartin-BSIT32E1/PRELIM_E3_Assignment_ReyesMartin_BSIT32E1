@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\content\images\Profile_2a.gif" />
+  </ItemGroup>
+
 </Project>
